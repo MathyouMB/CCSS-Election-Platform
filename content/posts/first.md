@@ -1,11 +1,10 @@
 ---
-title: My First Post
+title: "Continued Bi-Weekly Academic Events  \_\U0001F389"
 path: /blog/my-first-post
 date: '2019-04-04'
 type: post
-authors:
-  - scott-byrne
-draft: true
+authors: []
+draft: false
 ---
 
 ## Arma dent suarum
