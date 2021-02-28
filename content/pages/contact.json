@@ -9,29 +9,9 @@
       "content": ""
     },
     {
-      "_template": "FormBlock",
-      "name": "Contact Form",
-      "fields": [
-        {
-          "label": "Name",
-          "inputType": "text",
-          "autocomplete": "name",
-          "_template": "nameInputBlock"
-        },
-        {
-          "label": "Email",
-          "inputType": "text",
-          "autocomplete": "email",
-          "_template": "emailInputBlock"
-        },
-        {
-          "label": "Message",
-          "inputType": "textarea",
-          "autocomplete": "",
-          "_template": "messageInputBlock"
-        }
-      ],
-      "content": ""
+      "content": "Have questions about my platform?\n\nEmail me at [matthew.macraebovell@ccss.carleton.ca](mailto:matthew.macraebovell@ccss.carleton.ca)\n\nOr feel free to reach out to me on the CCSS Discord!\n\n![](https://media2.giphy.com/media/s9vFiYCdomuycLyT1X/giphy.gif)",
+      "center": true,
+      "_template": "ContentBlock"
     }
   ],
   "displayTitle": true
