@@ -18,7 +18,7 @@
     },
     {
       "_template": "ContentBlock",
-      "content": "## block content",
+      "content": "## ",
       "name": "dummy",
       "title": "dummy",
       "center": false,
