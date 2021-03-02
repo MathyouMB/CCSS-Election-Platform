@@ -1,29 +1,12 @@
 ---
-title: "Introducing Tina Grande \_\U0001F389"
+title: "Discrete Math Resources \_✏️"
 path: /blog/introducing-tina-grande
 date: '2019-11-06T00:00:00.000Z'
 type: post
 authors:
   - scott-byrne
 draft: false
-hero:
-  image: ../images/coffee-beans.jpg
-  large: false
-  overlay: true
 ---
+If elected, I will continue to further develop the COMP 2804 exercise website [Discretemath.ca]().
 
-> **Tina Grande** is a Gatsby starter with full TinaCMS integration. You can use Tina to add and remove pages, customize the theme, write content and more!
-
-## Getting Started
-
-```shell-session
-git clone https://github.com/tinacms/tina-starter-grande.git
-
-cd tina-starter-grande
-
-yarn install && gatsby develop
-```
-
-## Contributing
-
-Contribute by reporting bugs, requesting features or submiting improvements! We made this for you and would ❤️ any feedback or contributions to make **Tina Grande** better for everyone.
+During my second year, I worked with previous executives [Alexa De Grandmont](https://github.com/AlexaDeGrandmont), and [Forest Anderson](https://github.com/AngelOnFira) to build [Discretemath.ca](https://discretemath.ca/#/); a web app that lets you virtual take past midterms from COMP 2804. I am the primary software developer on this project and if re-elected, I plan to continue its development with the addition of new resources.
