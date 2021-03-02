@@ -1,5 +1,5 @@
 ---
-title: Open Source Development Initiative   ⚒️
+title: Open Source Development  ⚒️
 date: '2021-03-02T00:28:48.777Z'
 type: post
 path: /blog/open-source-initiative
