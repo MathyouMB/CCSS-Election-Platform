@@ -6,11 +6,6 @@
   },
   "blocks": [
     {
-      "image": "../images/[object Object]",
-      "_template": "ImageBlock",
-      "content": ""
-    },
-    {
       "content": "## Why should you vote for me?\n\nHaving been part of the board previously, I know how our society internally functions,  what the society is capable of, and what the society could do to improve.\n\nAs an incoming forth year student with a variety of industry experience, I know what  supplementary knowledge and resources our student body could benefit from.\n\n![Profile](https://i.imgur.com/kvC6kkW.jpg)\n\nOver my many years on the board, I have also worked directly with staff members of the School of Computer science and executives of other Carleton organizations to coordinate on initiatives and events.\n\n![B](https://i.imgur.com/DJEiayw.jpg)\n\nI have also taken on several duties beyond just my own position such as volunteering at Carleton high school outreach events, managing our website, creating academic resources like [Discretemath.ca](), and even editing the computer science [Fall 2020 convocation video](). If elected, I plan to continue the initiatives I've built during my time on the board.",
       "_template": "ContentBlock"
     }
