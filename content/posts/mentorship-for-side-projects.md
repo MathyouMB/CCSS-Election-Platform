@@ -13,4 +13,4 @@ This initiative will work by listing volunteer student mentors on our website wi
 
 These mentorship positions will also serve as CCR credited positions.
 
-If it is approved by the school, I would also like to expand this initiative to having dedicated mentors for Carleton CS courses. Many students have previously asked the school of computer science for dedicated tutor options, but it has been difficult to organize due to the workplace legally around recommending tutors over the school's already hired teaching assistants.
+If it is approved by the school, I would also like to expand this initiative to having dedicated mentors for Carleton CS courses. Many students have previously asked the school of computer science for dedicated tutor options, but it has been difficult to organize due to the workplace legality around recommending tutors over the school's already hired teaching assistants.

@@ -7,7 +7,7 @@ authors:
   - scott-byrne
 draft: false
 ---
-If elected, I will continue to further develop the COMP 2804 exercise website Discretemath.ca.
+If elected, I will continue to further develop the COMP 2804 exercise website [Discretemath.ca](https://discretemath.ca/).
 
 DiscreteMath.ca is a web app that lets you virtually take past midterms from COMP 2804. I am the primary software developer on this project and if re-elected, I plan to continue its development with the addition of new resources.
 
