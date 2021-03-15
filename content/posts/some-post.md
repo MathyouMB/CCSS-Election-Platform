@@ -6,7 +6,7 @@ type: post
 ---
 If elected, I will continue hosting bi-weekly Dev Club Meetings. Dev Club is a space where students can discuss tech, projects, and more! ![](https://i.giphy.com/media/xbObRI3uKiZgKfjVBG/giphy.webp)
 
-## What Could i be Improved?
+## What Could be Improved?
 
 As the current organizer of Dev Club, there are a number of improvements I'd like to make to improve Dev Club next year.
 
