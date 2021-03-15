@@ -1,5 +1,5 @@
 ---
-title: Mentorship for Side Projects
+title: "Mentorship for Side Projects  \U0001F393"
 date: '2021-03-15T01:03:45.223Z'
 type: post
 path: /blog/mentorship-for-side-projects
