@@ -6,7 +6,7 @@ type: post
 authors: []
 draft: false
 ---
-As Interim Director of Academics, I successfully worked with our board to host bi-weekly academic initiatives such as Tech Talks, Workshops, Industry Events and more.
+As Interim Director of Academics, I successfully worked with our board to host bi-weekly academic initiatives such as tech talks, workshops, industry events and more.
 
 Next year, I'd like to continue to maintain my current schedule and also organize talks that cater to a wider variety of topics and interests within computer science. I'd like to see events covering topics such as cloud infrastructure, system architecture, concurrency, data science, machine learning, game development, and more.
 
