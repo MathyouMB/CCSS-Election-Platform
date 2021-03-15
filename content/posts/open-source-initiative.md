@@ -5,7 +5,7 @@ type: post
 path: /blog/open-source-initiative
 draft: false
 ---
-If elected, I would create CCR credited tasks for students on our open source  development projects such as our [website](ccss.carleton.ca) and [Discretemath.ca](http://ccss.carleton.ca/).
+If elected, I would create CCR credited tasks for students on our open source  development projects such as our [website](ccss.carleton.ca) and [Discretemath.ca](http://discretemath.ca/).
 
 As the current maintainer of a lot of our development projects, I think it would be a great idea to open up non-time sensitive development tasks to the Carleton student body.
 

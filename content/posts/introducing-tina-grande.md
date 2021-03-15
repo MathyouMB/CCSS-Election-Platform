@@ -14,5 +14,7 @@ DiscreteMath.ca is a web app that lets you virtually take past midterms from COM
 My continued development on this project would:
 
 •  Involve creating a brand new and improved user interface
+
 •  Lead to the addition of exercises for additional courses
+
 •  Lead to the creation of  dynamic resources such as algorithms that  generate new practice questions
