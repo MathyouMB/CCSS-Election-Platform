@@ -1,27 +1,17 @@
 ---
-title: Artificis restabat ducere
-path: /blog/artificis-restabat
+title: "Continuing Dev Club \U0001F6E0️"
+path: /blog/dev-club
 date: '2019-03-06'
 type: post
 ---
-## Da tempore In editus quantum aratro
+If elected, I will continue hosting bi-weekly Dev Club Meetings. Dev Club is a space where students can discuss tech, projects, and more! ![](https://i.giphy.com/media/xbObRI3uKiZgKfjVBG/giphy.webp)
 
-Lorem markdownum et poterat pascat, sacra ruris orare. Iuno genuit clarae
-ingrederis atque. Venatu Minos, enim, portus posuit, tot quae! Res possit
-adverso bracchia Cercopum somnis, sanguine, madefactus oris adsensibus posito
-Ledam sparsurus quod.
+## What Could i be Improved?
 
-Nece erat quod interea tantum manantem
-[praedator](http://www.prodere-pars.io/si.aspx) mediaque patrias. Gloria operum
-indignis quam homo sub post quae tonso quod est melior non manat respicit ab
-illac litatis movet. Terga res ceu [aurum](http://meos.io/utcelmi) laevum quae
-nitidum attonitos sacra!
+As the current organizer of Dev Club, there are a number of improvements I'd like to make to improve Dev Club next year.
 
-## Artificis restabat ducere
+### Prepared Discussion Topics
 
-Duro summa ter finiat potiturque iacentem nam pereant omnis. Suspiria
-[medios](http://www.sed-omnes.net/estquod). Tamen contingere aulaea iunctura
-cetera, meum, simplex _meorum superetque molles_ moenia.
+Often the organic conversations started at our meetings are not inclusive to all students due to the siloed nature of technical knowledge. Although I think it's a great resource  for students to listen to those more experienced in a topic, I also understand it can feel ostracising to be on the outside of a conversation and it can feel demeaning to not have a clue what others are talking about.
 
-Umeris et ignorat, sulcum currusque est; erat ille conamine. Miratur e _aquas_,
-comites est Atrides motura adhaesit ista quaerit.
+Having prepared discussion topics would ensure that there is something for everyone to discuss at our meetings and also stop us from inevitably getting off.
