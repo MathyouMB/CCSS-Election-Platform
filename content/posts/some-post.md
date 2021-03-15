@@ -10,4 +10,4 @@ If elected, I will continue hosting Dev Club Meetings. Dev Club is a space where
 
 As the current organizer of Dev Club, there are a number of improvements I'd like to make to improve Dev Club next year.
 
-Next year I'd like to reformat the meetings to systematically encourage students to make consistent progress on their projects. I'd do this by having dedicated workshops that help students build parts of an application that eventually leed to a project showcase.
+Next year, I'd like to reformat the meetings to systematically encourage students to make consistent progress on their projects. I'd do this by having dedicated workshops that help students build parts of an application that eventually leed to a project showcase.
