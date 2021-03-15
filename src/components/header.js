@@ -15,7 +15,7 @@ export const Header = styled(({ siteTitle, ...styleProps }) => {
           <HeaderWrapper>
             <SiteTitle>
               <SiteLink to="/">
-                <Coffee />
+                {/*<Coffee />*/}
                 {siteTitle}
               </SiteLink>
             </SiteTitle>

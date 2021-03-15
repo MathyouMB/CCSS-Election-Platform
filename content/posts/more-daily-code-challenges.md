@@ -5,7 +5,7 @@ type: post
 path: /blog/more-daily-code-challenges
 draft: false
 ---
-If elected, I will host more events similar to last September’s CCSS Daily Code Challenge.
+If elected, I will host more events similar to last [September’s CCSS Daily Code Challenge.](https://ccss.carleton.ca/community/dailycode/)
 
 Last year, I developed the website submission system for the Week of Awesome Daily code challenge and have been working on redeveloping that system to account for some of the issues we faced last year.
 

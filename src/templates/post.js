@@ -74,15 +74,16 @@ function Post(props) {
       <PageLayout page={data}>
         <Paper>
           <Meta>
-            <MetaSpan>{data.frontmatter.date}</MetaSpan>
+            {/*<MetaSpan>{data.frontmatter.date}</MetaSpan>
             {data.frontmatter.authors && data.frontmatter.authors.length > 0 && (
               <MetaSpan>
                 <em>By</em>&nbsp;
                 <ListAuthors authorIDs={data.frontmatter.authors} />
               </MetaSpan>
             )}
+            */}
             <MetaActions>
-              <Link to="/blog">← Back to Blog</Link>
+              <Link to="/blog">← Back</Link>
             </MetaActions>
           </Meta>
           <h1>
@@ -113,7 +114,7 @@ export const postQuery = graphql`
       frontmatter: { path: { eq: $path } }
     ) {
       id
-      excerpt(pruneLength: 160)
+      excerpt
       html
 
       frontmatter {

@@ -9,6 +9,8 @@ If elected, I would like to create a mentorship program that allows our members 
 
 This initiative will work by listing volunteer student mentors on our website with descriptions of their expertise. Students will have the opportunity to reach out to these mentors for help on side projects and potentially course material.
 
-These mentorship positions will also serve as CCR credited positions and 
+![](https://media3.giphy.com/media/SV0UrYruj5E9Fa1Amp/giphy.gif?cid=ecf05e47xzepprtodryzgafxe2uzqfdxjk1aour8nbqo8gx8&rid=giphy.gif)
+
+These mentorship positions will also serve as CCR credited positions.
 
 If it is approved by the school, I would also like to expand this initiative to having dedicated mentors for Carleton CS courses. Many students have previously asked the school of computer science for dedicated tutor options, but it has been difficult to organize due to the workplace legally around recommending tutors over the school's already hired teaching assistants.

@@ -12,7 +12,7 @@ import { useLocalJsonForm } from "gatsby-tinacms-json"
 export default function Page({ data }) {
   const [page] = useLocalJsonForm(data.page, PageForm)
   const blocks = page.blocks ? page.blocks : []
-
+  console.log(page)
   return (
     <PageLayout page={page}>
       <Paper>

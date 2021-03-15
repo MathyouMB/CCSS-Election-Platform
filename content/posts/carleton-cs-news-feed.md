@@ -5,10 +5,8 @@ type: post
 path: /blog/carleton-cs-news-feed
 draft: false
 ---
-As part of my website redesign, I will include a news feed dedicated to promoting all the CS events, initiatives, clubs, and projects happening at Carleton.
+As part of the website redesign,  I will develop a news feed that includes events, initiatives, and projects from all CS related Carleton organizations.
 
-As the society representing all undergraduate computer science students, it's one of our main goals to keep our members aware of the resources available to them. With the recent boom of CS related groups and clubs here at Carleton, I'd like to create a central place students can see all upcoming events and initiatives from all Carleton CS related organizations.
+As the society representing all undergraduate computer science students, it's one of our main goals to keep our members aware of the resources available to them. With the recent increase we saw l year of CS related groups and clubs here at Carleton, I'd like to create a central place students can see all upcoming events and initiatives from all Carleton CS related organizations.
 
-This would not be hard to manage as we already consciously plan around the events of other groups. 
-
-Below is a rough mockup of what invision:
+This will make it significantly less difficult for students to keep track of everything happening in Carleton’s CS community.

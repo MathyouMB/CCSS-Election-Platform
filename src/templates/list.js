@@ -41,15 +41,15 @@ export default function List({ data, pageContext }) {
                 </h2>
                 <p>{item.node.excerpt}</p>
                 <Meta>
-                  <MetaSpan>{item.node.frontmatter.date}</MetaSpan>
+                  {/*<MetaSpan>{item.node.frontmatter.date}</MetaSpan>
                   {item.node.frontmatter.authors && (
                     <MetaSpan>
                       <em>By</em>&nbsp;
                       <ListAuthors authorIDs={item.node.frontmatter.authors} />
                     </MetaSpan>
-                  )}
+                  )}*/}
                   <MetaActions>
-                    <Link to={item.node.frontmatter.path}>Read Article →</Link>
+                    <Link to={item.node.frontmatter.path}>Read More →</Link>
                   </MetaActions>
                 </Meta>
               </Paper>
@@ -58,12 +58,12 @@ export default function List({ data, pageContext }) {
         <ListNav>
           {!isFirst && (
             <Link to={prevPage} rel="prev">
-              ← Newer
+              ← Previous
             </Link>
           )}
           {!isLast && (
             <Link to={nextPage} rel="next">
-              Older →
+              Next →
             </Link>
           )}
         </ListNav>

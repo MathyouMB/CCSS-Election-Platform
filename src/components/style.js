@@ -76,6 +76,12 @@ export const Reset = css`
     max-width: 100%;
   }
 
+  img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
   iframe {
     border: 0;
   }
