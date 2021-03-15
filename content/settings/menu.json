@@ -11,6 +11,10 @@
     {
       "label": "Platform",
       "link": "/blog"
+    },
+    {
+      "label": "Contact",
+      "link": "/contact"
     }
   ]
 }
